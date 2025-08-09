@@ -4,33 +4,33 @@ npm run dev
 
 ## 🛠 SonarCloud Setup & Code Analysis
 
-# Project key for Sonar cloud:
+### Project key for Sonar cloud:
 
 nihalsherkar1_react-project
 
-# Organization key:
+### Organization key:
 
 nihalsherkar1
 
-## Command Prompt
+### Command Prompt
 
 `set SONAR_TOKEN=834bf1643bb3421db74180325dd356f4e6aa5f96`
 
-## To Run Sonar
+### To Run Sonar
 
 `sonar-scanner`
 
 # sonar-project.properties
 
-## install dependency of eslint:
+### install dependency of eslint:
 
 `npm install --save-dev eslint eslint-plugin-react eslint-plugin-react-hooks`
 
-# the key of your SonarCloud organization
+### the key of your SonarCloud organization
 
 sonar.organization=nihalsherkar1
 
-# must be organization key + underscore + your project key
+### must be organization key + underscore + your project key
 
 sonar.projectKey=nihalsherkar1_react-project
 sonar.projectName=React Project
@@ -38,7 +38,7 @@ sonar.projectVersion=1.0
 sonar.sources=src
 sonar.exclusions=**/node_modules/**,**/\*.test.js,**/**tests**/\*\*
 
-# .eslintrc.json
+### .eslintrc.json
 
 {
 "env": {
