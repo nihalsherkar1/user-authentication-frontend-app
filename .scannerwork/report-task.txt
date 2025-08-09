@@ -1,0 +1,7 @@
+organization=nihalsherkar1
+projectKey=nihalsherkar1_react-project
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66037
+dashboardUrl=https://sonarcloud.io/dashboard?id=nihalsherkar1_react-project
+ceTaskId=AZiN4h3yXY8B7QO1p1bg
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZiN4h3yXY8B7QO1p1bg
