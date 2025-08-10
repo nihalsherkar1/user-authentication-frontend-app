@@ -36,7 +36,9 @@ npm install --save-dev eslint eslint-plugin-react eslint-plugin-react-hooks
 
 ### the key of your SonarCloud organization
 
+```
 sonar.organization=nihalsherkar1
+```
 
 ### must be organization key + underscore + your project key
 
