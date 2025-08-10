@@ -44,6 +44,7 @@ sonar.exclusions=**/node_modules/**,**/\*.test.js,**/**tests**/\*\*
 
 ### .eslintrc.json
 
+```
 {
 "env": {
 "browser": true,
@@ -62,7 +63,4 @@ sonar.exclusions=**/node_modules/**,**/\*.test.js,**/**tests**/\*\*
 "react/prop-types": "off"
 }
 }
-
-```
-
 ```
