@@ -8,11 +8,15 @@ npm run dev
 
 ### Project key for Sonar cloud:
 
+```
 nihalsherkar1_react-project
+```
 
 ### Organization key:
 
+```
 nihalsherkar1
+```
 
 ### Command Prompt
 
