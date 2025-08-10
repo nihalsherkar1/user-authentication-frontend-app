@@ -32,11 +32,13 @@ sonar.organization=nihalsherkar1
 
 ### must be organization key + underscore + your project key
 
+```
 sonar.projectKey=nihalsherkar1_react-project
 sonar.projectName=React Project
 sonar.projectVersion=1.0
 sonar.sources=src
 sonar.exclusions=**/node_modules/**,**/\*.test.js,**/**tests**/\*\*
+```
 
 ### .eslintrc.json
 
@@ -58,3 +60,7 @@ sonar.exclusions=**/node_modules/**,**/\*.test.js,**/**tests**/\*\*
 "react/prop-types": "off"
 }
 }
+
+```
+
+```
