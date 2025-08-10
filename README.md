@@ -1,6 +1,9 @@
 # Run Project
 
+```
 npm run dev
+
+```
 
 ## 🛠 SonarCloud Setup & Code Analysis
 
