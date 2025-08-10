@@ -24,7 +24,9 @@ nihalsherkar1
 
 ### install dependency of eslint:
 
-`npm install --save-dev eslint eslint-plugin-react eslint-plugin-react-hooks`
+```
+npm install --save-dev eslint eslint-plugin-react eslint-plugin-react-hooks
+```
 
 ### the key of your SonarCloud organization
 
