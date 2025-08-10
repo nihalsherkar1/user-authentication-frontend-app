@@ -16,11 +16,15 @@ nihalsherkar1
 
 ### Command Prompt
 
-`set SONAR_TOKEN=834bf1643bb3421db74180325dd356f4e6aa5f96`
+```
+set SONAR_TOKEN=834bf1643bb3421db74180325dd356f4e6aa5f96
+```
 
 ### To Run Sonar
 
-`sonar-scanner`
+```
+sonar-scanner
+```
 
 # sonar-project.properties
 
