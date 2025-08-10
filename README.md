@@ -2,7 +2,6 @@
 
 ```
 npm run dev
-
 ```
 
 ## 🛠 SonarCloud Setup & Code Analysis
